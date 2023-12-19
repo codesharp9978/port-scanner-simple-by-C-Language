@@ -15,8 +15,7 @@ This project is a simple port scanner written using the C programming language. 
 ## Usage
 
 1. **Compile Program:**
-   ``windows :
+
+   **For Windows:**
+   ``bash
    gcc -o port_scanner port_scanner.c -lws2_32
-   
-
-
