@@ -20,6 +20,6 @@ This project is a simple port scanner written using the C programming language. 
    ```bash
    gcc -o port_scanner port_scanner.c -lws2_32
 
-   **For Linux:**
-   ```bash
-   gcc -o port_scanner port_scanner.c
+  **For Linux:**
+  ```bash
+  gcc -o port_scanner port_scanner.c
